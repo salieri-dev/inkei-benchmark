@@ -1,0 +1,27 @@
+body#bdyu div.head,body#bdyu div#elmBnnr2 { background-image: url(//inkei.net/common/images/inkei/page_head_u.png); }
+body#bdyd div.head,body#bdyd div#elmBnnr2 { background-image: url(//inkei.net/common/images/inkei/page_head_d.png); }
+body#bdyb div.head,body#bdyb div#elmBnnr2 { background-image: url(//inkei.net/common/images/inkei/page_head_b.png); }
+
+body#bdyu div.fm td    { background-image: url(//inkei.net/common/images/inkei/page_head_u.png); background-color: #6c5d53; border-color: #eeeeee; }
+body#bdyd div.fm td    { background-color: #5d6c53; border-color: #eeeeee; }
+body#bdyb div.fm td    { background-color: #008000; border-color: #eeeeee; }
+
+body#bdyu *      { border-color: #6c5d53; }
+body#bdyd *      { border-color: #5d6c53; }
+body#bdyb *      { border-color: #008000; }
+
+body#bdyu a      { color: #883333; }
+body#bdyd a      { color: #338833; }
+body#bdyb a      { color: #338833; }
+
+ul li            { background-image: url(//inkei.net/common/images/inkei/page_li.png); }
+div.info ul li   { background-image: url(//inkei.net/common/images/inkei/page_li_info.png); }
+.ddvl            { background-image: url(//inkei.net/common/images/inkei/page_dd_slider.png?5); }
+div.info         { color: #857970; }
+
+div#elmP7        { display: none; }
+div#elmP8        { display: none; }
+div#elmP9        { display: none; }
+body#bdyd table#elmTableP7 { display: none; }
+body#bdyd table#elmTableP8 { display: none; }
+body#bdyd table#elmTableP9 { display: none; }
