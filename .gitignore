@@ -216,8 +216,4 @@ __marimo__/
 .streamlit/secrets.toml2
 
 # Inkei
-*.png 
-*.gif
-*.mp4
-*.mov
 *.sandbox
