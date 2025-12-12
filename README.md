@@ -17,3 +17,10 @@ At the request of the owner, the source code file will be immediately deleted fr
 
 ## 📂 The Dataset
 The benchmark utilizes `inkei_sourcecode.md`, which contains the original logic, rotation matrices, and Bezier curve data used in the original web application. Attach this file in the LLM request.
+
+## Results
+
+| Model | Provider | Result Image | Result Animation | Code |
+|-------|----------|--------------|------------------|------|
+| GPT-5.2 | OpenAI | [View](solutions/openai/gpt5.2.png) | [View](solutions/openai/gpt5.2.gif) | [Code](solutions/openai/gpt5.2.py) |
+| Gemini 3 Pro | Google | [View](solutions/google/gemini3pro.png) | - | [Code](solutions/google/gemini3pro.py) |
